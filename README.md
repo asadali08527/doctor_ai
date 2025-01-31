@@ -16,28 +16,28 @@ The AI Doctor Chatbot is a voice and image-based AI application that allows user
 
 ## Project Structure
 
-src/
-│
-├── core/
-│   ├── __init__.py
-│   ├── image_processor.py
-│   ├── llm_client.py
-│
-├── doctor/
-│   ├── __init__.py
-│   ├── tts.py
-│
-├── patient/
-│   ├── __init__.py
-│   ├── audio_recorder.py
-│   ├── speech_to_text.py
-│
-├── utils/
-│   ├── __init__.py
-│   ├── file_utils.py
-│
-├── gradio_app.py
-└── config.py
+    src/
+    │
+    ├── core/
+    │   ├── __init__.py
+    │   ├── image_processor.py
+    │   ├── llm_client.py
+    │
+    ├── doctor/
+    │   ├── __init__.py
+    │   ├── tts.py
+    │
+    ├── patient/
+    │   ├── __init__.py
+    │   ├── audio_recorder.py
+    │   ├── speech_to_text.py
+    │
+    ├── utils/
+    │   ├── __init__.py
+    │   ├── file_utils.py
+    │
+    ├── gradio_app.py
+    └── config.py
 
 
 ---
