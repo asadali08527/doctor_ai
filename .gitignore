@@ -1,0 +1,4 @@
+.env
+my_venv
+output/voice/doctor/*
+.DS_Store

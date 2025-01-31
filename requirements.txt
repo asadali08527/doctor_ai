@@ -1,0 +1,17 @@
+groq
+python-dotenv
+
+ffmpeg
+# brew install portaudio
+
+speechrecognition
+pydub
+pyaudio
+
+# brew install ffmpeg
+
+gtts
+
+elevenlabs
+gradio
+
